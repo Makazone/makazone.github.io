@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Kick off"
+date: 2016-09-18 21:06:26 +0800
+categories: jekyll
+---
+Hi Stranger.
+
+Nothing to do here, yet.
